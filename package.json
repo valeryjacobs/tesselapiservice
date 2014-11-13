@@ -1,10 +1,10 @@
 {
-  "name": "my-cool-webserver",
+  "name": "tesselapi",
   "version": "0.0.1",
   "description": "A NodeJS webserver to run inside a docker container",
-  "main": "index.js",
-  "author": "sean@seanmcgary.com",
-  "license": "MIT",
+  "main": "server.js",
+  "author": "MS TED",
+  "license": "",
   "dependencies": {
     "express": "*"
   }
