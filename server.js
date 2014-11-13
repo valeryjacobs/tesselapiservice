@@ -37,7 +37,7 @@ http.createServer(function(request, response) {
 
 }).listen(port);
 
-console.log('Runniong on ' + port);
+console.log('Running on port ' + port);
 
 // Simple method that simulates a dice and returns a number
 // from and including low, to and including high.
