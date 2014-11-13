@@ -24,7 +24,7 @@
 // JSON Object containing a random number whenever invoked
 
 var http = require('http')
-var port = process.env.PORT || 1337;
+var port = process.env.PORT || 80;
 
 http.createServer(function(request, response) {
 
